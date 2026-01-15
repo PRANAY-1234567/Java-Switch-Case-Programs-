@@ -124,9 +124,7 @@ java FileName
 🎯 Purpose of This Repository
 
 Practice Java basics
-
 Understand switch-case logic
-
 Helpful for college exams, QSpiders, and placements
 
 🙌 Author
