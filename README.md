@@ -23,7 +23,6 @@ switch-case
 Character conversion (toUpperCase())
 
 2️⃣ Maximum Days in a Month
-
 File: MaxDaysInMonth.java
 Description:
 
