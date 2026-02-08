@@ -1,4 +1,5 @@
 Java Switch Case Programs 🚀
+
 This repository contains simple Java programs using switch-case statements.
 These programs are useful for beginners, college practicals, and interview preparation.
 
